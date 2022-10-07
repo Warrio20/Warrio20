@@ -16,8 +16,8 @@
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/3.4/javascript/)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Warrio38&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Warrio38&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Warrio38&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Warrio38&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Warrio38&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
