@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm a front end developer<br>🧪Started learning in 2019<br>🤐I'm 17
+💻I'm a front end developer<br>🧪Started learning in 2019<br>🤐I'm 18
 
 
 ## 🌐 Socials:
